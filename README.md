@@ -3,17 +3,23 @@
 ## 🚀 About Me
 - 💻 Java Developer
 - ☕ Java Swing Developer
-- 🗄️ MySQL Database
-- 🌱 Currently building Hotel Management System
+- 💙 C++ Programmer
+- 🗄️ MySQL Database Developer
+- 🌱 Currently building a Hotel Management System
 
-## 🛠 Skills
-- C++
+## 🛠️ Languages & Technologies
 - Java
-- Swing
+- C++
+- Java Swing
 - MySQL
 - Git & GitHub
 
-## 📫 Connect with me
-- GitHub: https://github.com/ZafranKhattak
+## 🎯 Current Focus
+- Desktop Application Development with Java Swing
+- Database Design using MySQL
+- Improving Data Structures & Algorithms in C++
 
-Thanks for visiting my profile! ⭐
+## 📫 Connect with Me
+- GitHub: https://github.com/YourUsername
+
+⭐ Thanks for visiting my profile!
