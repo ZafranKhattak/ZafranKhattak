@@ -7,6 +7,7 @@
 - 🌱 Currently building Hotel Management System
 
 ## 🛠 Skills
+- C++
 - Java
 - Swing
 - MySQL
